@@ -74,6 +74,7 @@ systemctl restart wg-quick@wg0
   - SS-OBFS HTTP            : 3443-3543
   - XRAY Vmess Ws Tls       : 443
   - XRAY Vless Ws Tls       : 443
+  - XRAY Trojan Ws Tls      : 443
   - XRAY Vless Tcp Xtls     : 443
   - XRAY Trojan Tcp Tls     : 443
   - XRAY Vmess Ws None Tls  : 80
