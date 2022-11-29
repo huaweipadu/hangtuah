@@ -1,7 +1,7 @@
-# Script MATKILAU V6-Websocket
+# Script HANGTUAH V8-Websocket
  Welcome MAT KILAU😊
 
- <h2 align="center">AutoScript VPN By MATKILAU <img src="https://img.shields.io/badge/Version-6.0-blue.svg"></h2>
+ <h2 align="center">AutoScript VPN By HANGTUAH <img src="https://img.shields.io/badge/Version-6.0-blue.svg"></h2>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -51,26 +51,6 @@ systemctl restart wg-quick@wg0
 
   ```
 
-## Info :
-
- ## Script for Sell Only. Contact owner on Telegram @NORULEZZx <a href="https://t.me/NORULEZZx" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
-
- ## For Buy Script : Contact Telegram @NORULEZZx <a href="https://t.me/Virtual_NW" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
-
- ## Main Menu
-
-![IMG_20220627_092250_806](https://user-images.githubusercontent.com/108207883/175843517-06b4cea2-8e63-4c28-b325-c6b8e2588425.jpg)
-
-
-
-  ## Status Running
- 
-![IMG_20220321_093550](https://user-images.githubusercontent.com/96321013/159195645-0e972ccf-6fe0-41bf-8339-cdaa64f3041e.jpg)
-
-  ## Service & Port
- 
-![IMG_20220321_093533](https://user-images.githubusercontent.com/96321013/159195702-f76319a9-1c77-42ad-af9e-ea8f3cbdf293.jpg)
-
 ## Description :
 
   Service & Port
@@ -82,8 +62,8 @@ systemctl restart wg-quick@wg0
   - OHP Dropbear            : 8585
   - OHP SSH                 : 8686
   - OHP OpenVPN             : 8787
-  - Websocket SSH(HTTP)     : 2081
-  - Websocket SSL(HTTPS)    : 222
+  - Websocket SSH(HTTP)     : 80
+  - Websocket SSL(HTTPS)    : 443, 222
   - Websocket OpenVPN       : 2084
   - Squid Proxy             : 3128, 8080, 8000
   - Badvpn                  : 7100, 7200, 7300
@@ -97,8 +77,8 @@ systemctl restart wg-quick@wg0
   - XRAY Vless Tcp Xtls     : 443
   - XRAY Trojan Tcp Tls     : 443
   - XRAY Vmess Ws None Tls  : 80
-  - XRAY Vless Ws None Tls  : 8080
-  - Trojan Go               : 2083
+  - XRAY Vless Ws None Tls  : 80
+  - XRAY Trojan Ws None Tls : 80
 
  >>> Server Information & Other Features
    - Timezone                 : Asia/Kuala_Lumpur (GMT +8)
@@ -119,7 +99,7 @@ systemctl restart wg-quick@wg0
 
 ## Credit :
 
-*   MATKILAUPAHLAWAN
+*   HANGTUAH
 
 *   Project D
 
